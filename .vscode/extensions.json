@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "jripouteau.adonis-vscode-extension",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
